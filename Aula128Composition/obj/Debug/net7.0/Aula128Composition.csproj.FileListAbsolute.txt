@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\bin\Debug\net7.0\Aula128Composition.exe
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\bin\Debug\net7.0\Aula128Composition.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\bin\Debug\net7.0\Aula128Composition.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\bin\Debug\net7.0\Aula128Composition.dll
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\bin\Debug\net7.0\Aula128Composition.pdb
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.dll
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\refint\Aula128Composition.dll
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.pdb
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\Aula128Composition.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula128Composition\Aula128Composition\obj\Debug\net7.0\ref\Aula128Composition.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aula128Composition/1.0.0": {
+        "runtime": {
+          "Aula128Composition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula128Composition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
